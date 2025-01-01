@@ -1,7 +1,7 @@
 # JAN 01 : JAN 07
 ## Upskilling
-- 🎥 Complete the Flask Tutorial: Flask Crash Course for Beginners
-- 🚀 Learn building REST APIs with FastAPI: FastAPI Full Course
+- 🎥 Complete the Flask Tutorial: [Flask Crash Course for Beginners](https://www.youtube.com/watch?v=Qr4QMBUPxWo)
+- 🚀 Learn building REST APIs with FastAPI: [FastAPI Full Course](https://www.youtube.com/watch?v=7t2alSnE2-I)
 - 📚 Read Learning Spark by Jules Damji to deepen knowledge of Apache Spark.
 - ☁️ Progress towards earning the Azure Data Fundamentals certification.
 
